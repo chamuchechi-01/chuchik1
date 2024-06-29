@@ -12,6 +12,7 @@ body{
 header{
     display: flex;
     justify-content: space-between;
+    color: white;
     margin: auto;
     width: 1305px;
     height: 51px;
@@ -64,6 +65,7 @@ ul li{
 }
 .main_1_box_1 p{
     margin-left: 60px;
+    color: white;
     font-size: 40px;
     font-weight: 400;
     line-height: 60px;
@@ -101,3 +103,6 @@ ul li{
     width: 160px;
     height: 200px;
 }
+
+
+
